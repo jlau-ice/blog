@@ -6,13 +6,18 @@ comments: false
 
 ## 关于我
 
-- 在 [Markdown 示例](/posts/markdown) 中展示了 Markdown 的渲染样式
-- 可以前往 [Gyoza 使用指南](/posts/guide) 了解 Gyoza 的使用方法
+你好！我是 ice。
 
-Gyoza 是开源的，如果你对这个项目感兴趣，欢迎前往 Gyoza 的 [Github 仓库](https://github.com/lxchapu/astro-gyoza) 来提 Issue 或者 PR。
+24届数据科学与大数据专业毕业。各种方面的东西都了解一点，但都不精通。
 
 ## 技术栈
 
+- 编程语言：Java、JavaScript、TypeScript、Go、Python
+- 框架：Spring & SpringCloud & ...、Vue、Next、React、pytorch
+- 数据库：MySQL、PostgreSQL
+- 中间件：Redis、Elasticsearch、Zookeeper、Kafka、RabbitMQ、Nginx、docker
+- 正在学习: C、C++、Rust 嵌入式 PLC 底层相关的。
+
 ## 关于博客
 
-我是 lxchapu，是一名前端开发者，喜欢各种有趣的东西。欢迎访问我的个人网站 [www.lxchapu.com](https://www.lxchapu.com)，了解关于我更多的信息。
+本站从这个[Astro](https://github.com/withastro/astro)模板的基础上修改而来，感谢原作者[@lxchapu](https://github.com/lxchapu/astro-gyoza)开源。

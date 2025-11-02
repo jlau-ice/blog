@@ -1,6 +1,7 @@
 {
   "site": {
-    "url": "https://blog.dryice.icu",
+    "url": "https://dryice.icu",
+    "base": "/",
     "title": "ice的blog",
     "description": "ice的个人博客。",
     "keywords": "Gyoza,blog,Astro,theme,lxchapu,博客主题",
@@ -11,7 +12,7 @@
   "author": {
     "name": "ice",
     "twitterId": "@ActiveGopher",
-    "avatar": "public/avatar.jpg"
+    "avatar": "/avatar.jpg"
   },
   "hero": {
     "name": "ice",
@@ -98,7 +99,7 @@
     "startTime": "2025-10-30T00:00:00Z"
   },
   "waline": {
-    "serverURL": "https://waline.lxchapu.com"
+    "serverURL": ""
   },
   "sponsor": {
     "wechat": "https://object.lxchapu.com/bed%2F2024%2F0507_6e3e8f73df2d4e6d.webp"
